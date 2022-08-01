@@ -1,3 +1,3 @@
 # example-repository
 my first repository
-Adding a new change
+Adding an other message
